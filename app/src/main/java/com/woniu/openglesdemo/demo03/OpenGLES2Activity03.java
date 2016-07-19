@@ -1,18 +1,20 @@
-package com.woniu.openglesdemo.demo02;
+package com.woniu.openglesdemo.demo03;
 
 import android.app.Activity;
 import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 
+import com.woniu.openglesdemo.demo02.*;
+
 /**
  * @author woniu
  * @title OpenGLES2Activity02
- * @description 绘制一个三角形
+ * @description 定义投影
  * @modifier
  * @date
  * @since 16/7/19 下午8:03
  */
-public class OpenGLES2Activity02 extends Activity {
+public class OpenGLES2Activity03 extends Activity {
     private GLSurfaceView mGLView;
 
     @Override

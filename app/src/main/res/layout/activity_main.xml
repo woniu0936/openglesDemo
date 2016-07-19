@@ -24,4 +24,11 @@
         android:layout_marginBottom="4dp"
         android:text="使用opengl渲染一个三角形" />
 
+    <Button
+        android:id="@+id/btn_03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="渲染一个应用了投影变换和相机视角变换的三角形" />
+
 </LinearLayout>
