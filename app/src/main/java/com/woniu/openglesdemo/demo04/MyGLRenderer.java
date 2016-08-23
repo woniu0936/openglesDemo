@@ -75,7 +75,7 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
         Matrix.multiplyMM(mMVPMatrix, 0, mProjectionMatrix, 0, mViewMatrix, 0);
 
         // Draw shape
-//        mTriangle.draw(mMVPMatrix);
+        mTriangle.draw(mMVPMatrix);
 
         // Create a rotation transformation for the triangle
         long time = SystemClock.uptimeMillis() % 4000L;

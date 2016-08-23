@@ -30,6 +30,10 @@
         <activity android:name=".demo02.OpenGLES2Activity02" />
         <activity android:name=".demo03.OpenGLES2Activity03" />
         <activity android:name=".demo04.OpenGLES2Activity04" />
+        <activity android:name=".demo05.OpenGLES2Activity05" />
+        <activity android:name=".demo06.OpenGLES2Activity06" />
+        <activity android:name=".demo07.OpenGLES2Activity07" />
+        <activity android:name=".demo08.OpenGLES2Activity08" />
     </application>
 
 </manifest>
